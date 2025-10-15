@@ -1,6 +1,6 @@
 # Виза в Испанию через консульство в Белграде (для граждан РФ)
 ## Контакты и базовая информация
-* **Адрес:** Kneza Miloša 52, 11000 Beograd
+* **Адрес:** Prote Mateje 45, 11000 Beograd ([Google Maps](https://maps.app.goo.gl/WCydYAfdzLodEfct8) | [Яндекс.Карты](https://yandex.com/maps/-/CLVAeT4o))
 * **Email для записи:** [emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)
 * **Email для получения уведомлений:** [emb.belgrado.info@maec.es](mailto:emb.belgrado.info@maec.es) — **не пишите сюда сами!** С этого адреса консульство присылает дозапросы документов, уведомления о готовности визы или отказе (тема письма: "Solicitud de visado")
 * **Выдача паспортов:** 13:00–13:30 (строго)
