@@ -2,7 +2,7 @@
 ## Контакты и базовая информация
 * **Адрес:** Kneza Miloša 52, 11000 Beograd
 * **Email для записи:** [emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)
-* **Email для получения уведомлений:** [emb.belgrado.info@maec.es](mailto:emb.belgrado.info@maec.es) — куда приходит письмо о готовности визы (тема: "Solicitud de visado")
+* **Email для получения уведомлений:** [emb.belgrado.info@maec.es](mailto:emb.belgrado.info@maec.es) — **не пишите сюда сами!** С этого адреса консульство присылает дозапросы документов, уведомления о готовности визы или отказе (тема письма: "Solicitud de visado")
 * **Выдача паспортов:** 13:00–13:30 (строго)
 * **Консульский сбор:** 10 520 RSD, **наличными** (карты не принимаются) на человека.
 * **Статус дела:** [https://sutramiteconsular.maec.es/](https://sutramiteconsular.maec.es/)  → `VISADO` → номер дела → год рождения
@@ -17,7 +17,7 @@
 ---
 
 ## Шаг 1. Запись на подачу (получить «слот»)
-1. Напишите на **[emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)** одно письмо на всех заявителей.
+1. Напишите на **[emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)** **одно письмо на всю семью/всех заявителей** (не отдельные письма на каждого!).
 2. **Тема:** `[SCHENGEN] ДД/ММ/ГГГГ` (дата начала поездки, заглавными внутри квадратных скобок).
 3. **Тело письма:**
 
@@ -141,4 +141,3 @@ Familia Pupkin
 
 ## Полезные ссылки
 * Официальный сайт: [https://www.exteriores.gob.es/Embajadas/belgrado/es/ServiciosConsulares/Paginas/index.aspx](https://www.exteriores.gob.es/Embajadas/belgrado/es/ServiciosConsulares/Paginas/index.aspx)
-
