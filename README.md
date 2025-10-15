@@ -65,7 +65,7 @@ Familia Pupkin
 ### 2.1. Базовый пакет (для всех)
 * **Анкеты** (можно от руки/на ПК). **Не скрепляйте степлером**; сложите в порядке чек-листа:
   - **Визовая анкета Шенген** по анкете на каждого — [скачать PDF](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Serbia/BELGRADO%20(E)/SchengenFormESEN.pdf)
-  - **Консульская анкета:** одна на всех — [скачать PDF](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Serbia/BELGRADO%20(E)/ListaSchengen.pdf)
+  - **Консульская анкета(чек-лист):** одна на всех — [скачать PDF](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Serbia/BELGRADO%20(E)/ListaSchengen.pdf)
 * **Фото** 35×45 мм, светлый фон, ≤6 мес., 1 шт. (приклеить сухим клеем к анкете).
 * **Загранпаспорт 10-летний** + копия первой страницы. **Важно:** 5-летние паспорта **не принимают**.
 * **Сербский или черногорский ВНЖ (боравак/боравишна дозвола)** + копия (читач или ксерокопия)
