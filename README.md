@@ -1,4 +1,4 @@
-# Как получить испанскую шенгенскую визу в Белграде (для граждан РФ)
+# Как получить испанскую шенгенскую туристическую визу(типа-С) визу в Белграде (для граждан РФ)
 ## Контакты и базовая информация
 * **Адрес:** Prote Mateje 45, 11000 Beograd ([Google Maps](https://maps.app.goo.gl/WCydYAfdzLodEfct8) | [Яндекс.Карты](https://yandex.com/maps/-/CLVAeT4o))
 * **Email для записи:** [emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)
