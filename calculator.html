@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Калькулятор средств для шенгенской визы</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background: #0d1117; color: #e6edf3; display: flex; justify-content: center; padding: 40px 16px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 32px; max-width: 420px; width: 100%; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .subtitle { color: #8b949e; font-size: 14px; margin-bottom: 24px; }
+  label { display: block; font-size: 14px; color: #8b949e; margin-bottom: 6px; }
+  .row { margin-bottom: 20px; }
+  input[type=number] { width: 100%; padding: 10px 12px; font-size: 16px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; color: #e6edf3; outline: none; }
+  input[type=number]:focus { border-color: #58a6ff; }
+  .result { background: #1c2633; border: 1px solid #1f6feb; border-radius: 8px; padding: 16px; text-align: center; margin-top: 8px; }
+  .result .amount { font-size: 32px; font-weight: 700; color: #58a6ff; }
+  .result .label { font-size: 13px; color: #8b949e; margin-top: 4px; }
+  .formula { font-size: 12px; color: #8b949e; margin-top: 16px; text-align: center; }
+  a { color: #58a6ff; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Калькулятор средств</h1>
+  <p class="subtitle">Минимальная сумма на счёте для шенгенской визы</p>
+
+  <div class="row">
+    <label for="people">Количество человек</label>
+    <input type="number" id="people" min="1" value="1">
+  </div>
+
+  <div class="row">
+    <label for="days">Количество дней поездки</label>
+    <input type="number" id="days" min="1" value="7">
+  </div>
+
+  <div class="result">
+    <div class="amount" id="total">—</div>
+    <div class="label">минимум на счёте</div>
+  </div>
+
+  <p class="formula">118 € &times; дни &times; чел., но не менее 1 065 € на человека (<a href="https://www.exteriores.gob.es/Embajadas/dublin/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx" target="_blank">источник</a>)</p>
+</div>
+
+<script>
+  const rate = 118, min = 1065;
+  const $p = document.getElementById('people');
+  const $d = document.getElementById('days');
+  const $t = document.getElementById('total');
+
+  function calc() {
+    const p = Math.max(parseInt($p.value) || 1, 1);
+    const d = Math.max(parseInt($d.value) || 1, 1);
+    const total = Math.max(rate * d, min) * p;
+    $t.textContent = total.toLocaleString('ru-RU') + ' €';
+  }
+
+  $p.addEventListener('input', calc);
+  $d.addEventListener('input', calc);
+  calc();
+</script>
+</body>
+</html>
