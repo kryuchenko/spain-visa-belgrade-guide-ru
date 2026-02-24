@@ -68,10 +68,10 @@
 
 1. Напишите на **[emb.belgrado.citas@maec.es](mailto:emb.belgrado.citas@maec.es)** **одно письмо на всю семью/всех заявителей** (не отдельные письма на каждого!).
 2. **Тема:** `[SCHENGEN] ДД/ММ/ГГГГ` (дата начала поездки, заглавными внутри квадратных скобок).
-3. **Тело письма:**
+3. **Тело письма** (строго по [формату консульства](https://www.exteriores.gob.es/Embajadas/belgrado/es/ServiciosConsulares/Paginas/index.aspx?scco=Serbia&scd=25&scca=Visados&scs=Lugar+de+presentaci%c3%b3n+de+solicitudes+de+visado), ничего лишнего не добавляйте — копии документов, доп. текст и вложения не нужны):
 
    * Nombre y apellidos (Имя Фамилия как в загранпаспорте, латиницей)
-   * Número de pasaporte (только серия+номер)
+   * Número de pasaporte (только серия+номер, **не прикладывайте копию**)
    * Для детей: Fecha de nacimiento (дата рождения)
 
 **Тема/Заголовок письма:**
@@ -79,7 +79,7 @@
 [SCHENGEN] 03/09/2026
 ```
 
-**Пример письма:**
+**Пример письма (обязательный формат):**
 ```
 Estimados señores,
 
