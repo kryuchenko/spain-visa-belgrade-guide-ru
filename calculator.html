@@ -7,7 +7,7 @@
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background: #0d1117; color: #e6edf3; display: flex; justify-content: center; padding: 40px 16px; }
-  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 32px; max-width: 420px; width: 100%; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 32px; max-width: 480px; width: 100%; }
   h1 { font-size: 20px; margin-bottom: 4px; }
   .subtitle { color: #8b949e; font-size: 14px; margin-bottom: 24px; }
   label { display: block; font-size: 14px; color: #8b949e; margin-bottom: 6px; }
@@ -17,7 +17,7 @@
   .result { background: #1c2633; border: 1px solid #1f6feb; border-radius: 8px; padding: 16px; text-align: center; margin-top: 8px; }
   .result .amount { font-size: 32px; font-weight: 700; color: #58a6ff; }
   .result .label { font-size: 13px; color: #8b949e; margin-top: 4px; }
-  .formula { font-size: 12px; color: #8b949e; margin-top: 16px; text-align: center; }
+  .formula { font-size: 12px; color: #8b949e; margin-top: 16px; text-align: center; line-height: 1.6; }
   a { color: #58a6ff; }
 </style>
 </head>
@@ -41,11 +41,16 @@
     <div class="label">минимум на счёте</div>
   </div>
 
-  <p class="formula">118 € &times; дни &times; чел., но не менее 1 065 € на человека (<a href="https://www.exteriores.gob.es/Embajadas/dublin/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx" target="_blank">источник</a>)</p>
+  <p class="formula">
+    По <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9608" target="_blank">Orden PRE/1282/2007</a>: 10% от SMI &times; дни &times; чел., минимум 90% от SMI на чел.<br>
+    SMI 2026 = 1 221 €/мес → <strong>122 €/день</strong>, минимум <strong>1 099 €</strong> на чел.
+  </p>
 </div>
 
 <script>
-  const rate = 118, min = 1065;
+  const smi = 1221;
+  const rate = Math.round(smi * 0.10);
+  const min = Math.round(smi * 0.90);
   const $p = document.getElementById('people');
   const $d = document.getElementById('days');
   const $t = document.getElementById('total');
