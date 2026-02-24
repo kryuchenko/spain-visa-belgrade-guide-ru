@@ -108,6 +108,29 @@ Familia Pupkin
 
 **Про автоотбивку:** иногда после отправки письма приходит автоматическое подтверждение получения — но это **не показатель доставки**. По опыту заявителей: у кого-то отбивка приходила, у кого-то нет, при этом ответ от консульства получали и те, и другие. Отсутствие автоотбивки **не означает**, что письмо не дошло.
 
+<details>
+<summary>Пример автоотбивки <i>[подробнее]</i></summary>
+
+> **Acusamos recibo de su correo**. Recibirá lo antes posible respuesta con la asignación de cita. Dado el volumen de solicitudes, es posible que su solicitud tarde hasta 10 días en tramitarse.
+>
+> **ATENCIÓN: su mensaje será BORRADO y, por tanto, no atendido:**
+>
+> a) Si escribe para solicitar **información**. Si tiene alguna duda, escriba a emb.belgrado.info@maec.es.
+>
+> b) **Si no ha seguido las instrucciones** que encontrará en el siguiente [enlace](https://www.exteriores.gob.es/Embajadas/belgrado/es/ServiciosConsulares/Paginas/index.aspx?scco=Serbia&scd=25&scca=Visados&scs=Lugar+de+presentaci%c3%b3n+de+solicitudes+de+visado). En tal caso, vuelva a escribir usando el formato correcto.
+>
+> ---
+>
+> **We acknowledge receipt of your email**. You will receive a response with an appointment assignment as soon as possible. Due to the volume of applications, it may take up to 10 days for your application to be processed.
+>
+> **WARNING: your message will be DELETED and, therefore, not processed:**
+>
+> a) If you request **information**. If you have any questions, send an email to emb.belgrado.info@maec.es.
+>
+> b) If you have not followed the instructions that you will find in the following [link](https://www.exteriores.gob.es/Embajadas/belgrado/es/ServiciosConsulares/Paginas/index.aspx?scco=Serbia&scd=25&scca=Visados&scs=Lugar+de+presentaci%c3%b3n+de+solicitudes+de+visado). If that is the case, please send another email using the correct format.
+
+</details>
+
 </details>
 
 <details>
