@@ -3,7 +3,7 @@
 *Последнее обновление: 23 февраля 2026*
 
 > [!NOTE]
-> Этот гайд — про **туристическую визу (тип C)**. По вопросам **digital nomad визы** Испании есть отдельный чат: **[Digital Nomad Spain Serbia](https://t.me/digitalnomadspainserbia)**.
+> Этот гайд — про **туристическую визу (тип C)**. По вопросам **digital nomad визы (тип D)** Испании есть отдельный чат: **[Digital Nomad Spain Serbia](https://t.me/digitalnomadspainserbia)**.
 
 > [!IMPORTANT]
 > **Коротко о главном (актуально на февраль 2026):**
