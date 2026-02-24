@@ -134,6 +134,25 @@ Familia Pupkin
 </details>
 
 <details>
+<summary>Пример письма о назначении слота <i>[подробнее]</i></summary>
+
+Тема письма: `[CITA] 21.09.2026. 10:30h`
+
+> Se le ha asignado la siguiente cita:
+>
+> **Familia PUPKIN (3) → 21/SEPTIEMBRE/2026, 10:30 h**
+>
+> Si necesita realizar cualquier cambio o anulación, por favor, responda a este correo y cambie en el asunto [CITA] por [CAMBIO] o [ANULACIÓN].
+>
+> Recuerde que la cita es personal e intransferible: se le requerirá que se identifique con el documento que nos ha facilitado.
+>
+> Les informamos de que es obligatorio dejar el pasaporte en la Embajada durante todo el trámite del visado.
+
+В скобках — количество человек. Для изменения даты ответьте на письмо, заменив `[CITA]` на `[CAMBIO]`, для отмены — на `[ANULACIÓN]`. Паспорт остаётся в посольстве на весь срок рассмотрения.
+
+</details>
+
+<details>
 <summary><strong>Частые ошибки при записи</strong> <i>[подробнее]</i></summary>
 
 Вложения с копиями документов; тема не по формату; отсутствие даты в теме; несколько писем подряд.
